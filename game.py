@@ -5,9 +5,9 @@ import altair as alt
 
 # === CONFIG ===
 BANKROLL_INITIALE = 500.0
-FICHIER_VALUE_BETS = "NBA/value_bets_resultats.csv"
+FICHIER_VALUE_BETS = "value_bets_resultats.csv"
 FICHIER_HISTORIQUE = "historique_paris.csv"
-FICHIER_PROPOSITIONS = "NBA/propositions_du_jour.csv"
+FICHIER_PROPOSITIONS = "propositions_du_jour.csv"
 
 st.set_page_config(page_title="Gestion Bankroll - Kelly", layout="wide")
 st.title("📊 Gestion de Bankroll ")
