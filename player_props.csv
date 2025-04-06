@@ -1,0 +1,488 @@
+Joueur,Match,Type,Ligne,Cote,Bookmaker
+Miles Bridges,Chicago Bulls @ Charlotte Hornets,ASSISTS,4.5,2.28,BetOnline.ag
+Coby White,Chicago Bulls @ Charlotte Hornets,ASSISTS,4.5,2.12,BetOnline.ag
+Nikola Vucevic,Chicago Bulls @ Charlotte Hornets,ASSISTS,2.5,1.61,BetOnline.ag
+Mark Williams,Chicago Bulls @ Charlotte Hornets,ASSISTS,2.5,1.89,BetOnline.ag
+Nick Smith Jr,Chicago Bulls @ Charlotte Hornets,ASSISTS,2.5,1.64,BetOnline.ag
+Josh Giddey,Chicago Bulls @ Charlotte Hornets,ASSISTS,9.5,2.0,BetOnline.ag
+Kevin Huerter,Chicago Bulls @ Charlotte Hornets,ASSISTS,3.5,2.22,BetOnline.ag
+Seth Curry,Chicago Bulls @ Charlotte Hornets,ASSISTS,2.5,2.26,BetOnline.ag
+Miles Bridges,Chicago Bulls @ Charlotte Hornets,POINTS,21.5,1.93,BetOnline.ag
+Coby White,Chicago Bulls @ Charlotte Hornets,POINTS,23.5,1.85,BetOnline.ag
+Nikola Vucevic,Chicago Bulls @ Charlotte Hornets,POINTS,18.5,1.9,BetOnline.ag
+Mark Williams,Chicago Bulls @ Charlotte Hornets,POINTS,15.5,1.77,BetOnline.ag
+Josh Giddey,Chicago Bulls @ Charlotte Hornets,POINTS,19.5,1.93,BetOnline.ag
+Nick Smith Jr,Chicago Bulls @ Charlotte Hornets,POINTS,12.5,1.92,BetOnline.ag
+Kevin Huerter,Chicago Bulls @ Charlotte Hornets,POINTS,11.5,1.84,BetOnline.ag
+Matas Buzelis,Chicago Bulls @ Charlotte Hornets,POINTS,12.5,1.88,BetOnline.ag
+Seth Curry,Chicago Bulls @ Charlotte Hornets,POINTS,10.5,1.98,BetOnline.ag
+Coby White,Chicago Bulls @ Charlotte Hornets,REBOUNDS,3.5,1.76,BetOnline.ag
+Miles Bridges,Chicago Bulls @ Charlotte Hornets,REBOUNDS,5.5,1.75,BetOnline.ag
+Nikola Vucevic,Chicago Bulls @ Charlotte Hornets,REBOUNDS,9.5,1.79,BetOnline.ag
+Kevin Huerter,Chicago Bulls @ Charlotte Hornets,REBOUNDS,3.5,1.84,BetOnline.ag
+Josh Giddey,Chicago Bulls @ Charlotte Hornets,REBOUNDS,8.5,1.82,BetOnline.ag
+Matas Buzelis,Chicago Bulls @ Charlotte Hornets,REBOUNDS,6.5,2.28,BetOnline.ag
+Seth Curry,Chicago Bulls @ Charlotte Hornets,REBOUNDS,2.5,1.9,BetOnline.ag
+Mark Williams,Chicago Bulls @ Charlotte Hornets,REBOUNDS,11.5,2.0,BetOnline.ag
+Miles Bridges,Chicago Bulls @ Charlotte Hornets,THREES,2.5,2.24,BetOnline.ag
+Coby White,Chicago Bulls @ Charlotte Hornets,THREES,2.5,1.65,BetOnline.ag
+Nikola Vucevic,Chicago Bulls @ Charlotte Hornets,THREES,1.5,1.6,BetOnline.ag
+Josh Giddey,Chicago Bulls @ Charlotte Hornets,THREES,1.5,2.09,BetOnline.ag
+Kevin Huerter,Chicago Bulls @ Charlotte Hornets,THREES,2.5,2.02,BetOnline.ag
+Matas Buzelis,Chicago Bulls @ Charlotte Hornets,THREES,1.5,1.68,BetOnline.ag
+Nick Smith Jr,Chicago Bulls @ Charlotte Hornets,THREES,2.5,2.41,BetOnline.ag
+Seth Curry,Chicago Bulls @ Charlotte Hornets,THREES,1.5,1.87,BetOnline.ag
+Scottie Barnes,Toronto Raptors @ Brooklyn Nets,ASSISTS,4.5,2.06,BetOnline.ag
+R.J. Barrett,Toronto Raptors @ Brooklyn Nets,ASSISTS,4.5,1.76,BetOnline.ag
+Keon Johnson,Toronto Raptors @ Brooklyn Nets,ASSISTS,3.5,2.32,BetOnline.ag
+Trendon Watford,Toronto Raptors @ Brooklyn Nets,ASSISTS,4.5,1.94,BetOnline.ag
+Jamal Shead,Toronto Raptors @ Brooklyn Nets,ASSISTS,6.5,2.09,BetOnline.ag
+Jalen Wilson,Toronto Raptors @ Brooklyn Nets,ASSISTS,2.5,2.1,BetOnline.ag
+Trendon Watford,Toronto Raptors @ Brooklyn Nets,POINTS,14.5,1.95,BetOnline.ag
+R.J. Barrett,Toronto Raptors @ Brooklyn Nets,POINTS,19.5,1.87,BetOnline.ag
+Jalen Wilson,Toronto Raptors @ Brooklyn Nets,POINTS,11.5,1.81,BetOnline.ag
+Keon Johnson,Toronto Raptors @ Brooklyn Nets,POINTS,14.5,1.91,BetOnline.ag
+Orlando Robinson,Toronto Raptors @ Brooklyn Nets,POINTS,10.5,1.99,BetOnline.ag
+Jamal Shead,Toronto Raptors @ Brooklyn Nets,POINTS,11.5,1.95,BetOnline.ag
+Ziaire Williams,Toronto Raptors @ Brooklyn Nets,POINTS,11.5,1.9,BetOnline.ag
+Ja'Kobe Walter,Toronto Raptors @ Brooklyn Nets,POINTS,12.5,1.89,BetOnline.ag
+Scottie Barnes,Toronto Raptors @ Brooklyn Nets,POINTS,15.5,1.88,BetOnline.ag
+Maxwell Lewis,Toronto Raptors @ Brooklyn Nets,POINTS,9.5,1.92,BetOnline.ag
+Trendon Watford,Toronto Raptors @ Brooklyn Nets,REBOUNDS,5.5,1.82,BetOnline.ag
+R.J. Barrett,Toronto Raptors @ Brooklyn Nets,REBOUNDS,5.5,2.0,BetOnline.ag
+Orlando Robinson,Toronto Raptors @ Brooklyn Nets,REBOUNDS,7.5,2.04,BetOnline.ag
+Ja'Kobe Walter,Toronto Raptors @ Brooklyn Nets,REBOUNDS,4.5,1.9,BetOnline.ag
+Keon Johnson,Toronto Raptors @ Brooklyn Nets,REBOUNDS,4.5,2.1,BetOnline.ag
+Jalen Wilson,Toronto Raptors @ Brooklyn Nets,REBOUNDS,4.5,2.12,BetOnline.ag
+Ziaire Williams,Toronto Raptors @ Brooklyn Nets,REBOUNDS,4.5,1.7,BetOnline.ag
+Jamal Shead,Toronto Raptors @ Brooklyn Nets,REBOUNDS,2.5,1.68,BetOnline.ag
+Maxwell Lewis,Toronto Raptors @ Brooklyn Nets,REBOUNDS,3.5,1.64,BetOnline.ag
+Scottie Barnes,Toronto Raptors @ Brooklyn Nets,REBOUNDS,5.5,1.65,BetOnline.ag
+Jalen Wilson,Toronto Raptors @ Brooklyn Nets,THREES,1.5,1.66,BetOnline.ag
+R.J. Barrett,Toronto Raptors @ Brooklyn Nets,THREES,1.5,1.93,BetOnline.ag
+Keon Johnson,Toronto Raptors @ Brooklyn Nets,THREES,2.5,2.46,BetOnline.ag
+Ja'Kobe Walter,Toronto Raptors @ Brooklyn Nets,THREES,1.5,1.84,BetOnline.ag
+Jamal Shead,Toronto Raptors @ Brooklyn Nets,THREES,1.5,2.0,BetOnline.ag
+Maxwell Lewis,Toronto Raptors @ Brooklyn Nets,THREES,1.5,1.83,BetOnline.ag
+Trendon Watford,Toronto Raptors @ Brooklyn Nets,THREES,0.5,1.58,BetOnline.ag
+Scottie Barnes,Toronto Raptors @ Brooklyn Nets,THREES,0.5,1.44,BetOnline.ag
+Orlando Robinson,Toronto Raptors @ Brooklyn Nets,THREES,0.5,1.86,BetOnline.ag
+Ziaire Williams,Toronto Raptors @ Brooklyn Nets,THREES,2.5,2.55,BetOnline.ag
+R.J. Barrett,Toronto Raptors @ Brooklyn Nets,ASSISTS,4.5,1.78,Pinnacle
+Trendon Watford,Toronto Raptors @ Brooklyn Nets,ASSISTS,4.5,2.11,Pinnacle
+Keon Johnson,Toronto Raptors @ Brooklyn Nets,ASSISTS,3.5,2.36,Pinnacle
+Jamal Shead,Toronto Raptors @ Brooklyn Nets,ASSISTS,6.5,2.12,Pinnacle
+Scottie Barnes,Toronto Raptors @ Brooklyn Nets,ASSISTS,4.5,2.03,Pinnacle
+R.J. Barrett,Toronto Raptors @ Brooklyn Nets,POINTS,19.5,1.78,Pinnacle
+Jalen Wilson,Toronto Raptors @ Brooklyn Nets,POINTS,11.5,1.76,Pinnacle
+Trendon Watford,Toronto Raptors @ Brooklyn Nets,POINTS,14.5,1.98,Pinnacle
+Orlando Robinson,Toronto Raptors @ Brooklyn Nets,POINTS,10.5,2.03,Pinnacle
+Ziaire Williams,Toronto Raptors @ Brooklyn Nets,POINTS,11.5,1.89,Pinnacle
+Keon Johnson,Toronto Raptors @ Brooklyn Nets,POINTS,14.5,1.93,Pinnacle
+Jamal Shead,Toronto Raptors @ Brooklyn Nets,POINTS,11.5,1.96,Pinnacle
+Scottie Barnes,Toronto Raptors @ Brooklyn Nets,POINTS,15.5,1.89,Pinnacle
+Maxwell Lewis,Toronto Raptors @ Brooklyn Nets,POINTS,9.5,1.95,Pinnacle
+Ja'Kobe Walter,Toronto Raptors @ Brooklyn Nets,POINTS,12.5,1.89,Pinnacle
+R.J. Barrett,Toronto Raptors @ Brooklyn Nets,REBOUNDS,5.5,2.02,Pinnacle
+Trendon Watford,Toronto Raptors @ Brooklyn Nets,REBOUNDS,5.5,1.88,Pinnacle
+Orlando Robinson,Toronto Raptors @ Brooklyn Nets,REBOUNDS,7.5,2.11,Pinnacle
+Scottie Barnes,Toronto Raptors @ Brooklyn Nets,REBOUNDS,5.5,1.62,Pinnacle
+R.J. Barrett,Toronto Raptors @ Brooklyn Nets,THREES,1.5,1.93,Pinnacle
+Jalen Wilson,Toronto Raptors @ Brooklyn Nets,THREES,1.5,1.63,Pinnacle
+Ziaire Williams,Toronto Raptors @ Brooklyn Nets,THREES,2.5,2.6,Pinnacle
+Keon Johnson,Toronto Raptors @ Brooklyn Nets,THREES,2.5,2.49,Pinnacle
+Jamal Shead,Toronto Raptors @ Brooklyn Nets,THREES,1.5,1.94,Pinnacle
+Maxwell Lewis,Toronto Raptors @ Brooklyn Nets,THREES,1.5,1.93,Pinnacle
+Ja'Kobe Walter,Toronto Raptors @ Brooklyn Nets,THREES,1.5,1.84,Pinnacle
+Shai Gilgeous-Alexander,Los Angeles Lakers @ Oklahoma City Thunder,ASSISTS,6.5,1.71,BetOnline.ag
+LeBron James,Los Angeles Lakers @ Oklahoma City Thunder,ASSISTS,7.5,2.12,BetOnline.ag
+Jalen Williams,Los Angeles Lakers @ Oklahoma City Thunder,ASSISTS,4.5,1.94,BetOnline.ag
+Austin Reaves,Los Angeles Lakers @ Oklahoma City Thunder,ASSISTS,4.5,2.1,BetOnline.ag
+Isaiah Hartenstein,Los Angeles Lakers @ Oklahoma City Thunder,ASSISTS,3.5,2.17,BetOnline.ag
+Luka Doncic,Los Angeles Lakers @ Oklahoma City Thunder,ASSISTS,7.5,2.07,BetOnline.ag
+Cason Wallace,Los Angeles Lakers @ Oklahoma City Thunder,ASSISTS,2.5,2.15,BetOnline.ag
+LeBron James,Los Angeles Lakers @ Oklahoma City Thunder,POINTS,22.5,1.93,BetOnline.ag
+Luguentz Dort,Los Angeles Lakers @ Oklahoma City Thunder,POINTS,9.5,2.02,BetOnline.ag
+Austin Reaves,Los Angeles Lakers @ Oklahoma City Thunder,POINTS,18.5,1.77,BetOnline.ag
+Isaiah Hartenstein,Los Angeles Lakers @ Oklahoma City Thunder,POINTS,9.5,1.81,BetOnline.ag
+Chet Holmgren,Los Angeles Lakers @ Oklahoma City Thunder,POINTS,14.5,1.93,BetOnline.ag
+Luka Doncic,Los Angeles Lakers @ Oklahoma City Thunder,POINTS,27.5,1.97,BetOnline.ag
+Jalen Williams,Los Angeles Lakers @ Oklahoma City Thunder,POINTS,20.5,1.93,BetOnline.ag
+Rui Hachimura,Los Angeles Lakers @ Oklahoma City Thunder,POINTS,12.5,1.85,BetOnline.ag
+Jaxson Hayes,Los Angeles Lakers @ Oklahoma City Thunder,POINTS,6.5,1.97,BetOnline.ag
+Dorian Finney-Smith,Los Angeles Lakers @ Oklahoma City Thunder,POINTS,6.5,1.84,BetOnline.ag
+Gabe Vincent,Los Angeles Lakers @ Oklahoma City Thunder,POINTS,5.5,1.75,BetOnline.ag
+Cason Wallace,Los Angeles Lakers @ Oklahoma City Thunder,POINTS,7.5,1.81,BetOnline.ag
+Shai Gilgeous-Alexander,Los Angeles Lakers @ Oklahoma City Thunder,POINTS,31.5,1.88,BetOnline.ag
+LeBron James,Los Angeles Lakers @ Oklahoma City Thunder,REBOUNDS,6.5,1.83,BetOnline.ag
+Chet Holmgren,Los Angeles Lakers @ Oklahoma City Thunder,REBOUNDS,7.5,1.88,BetOnline.ag
+Isaiah Hartenstein,Los Angeles Lakers @ Oklahoma City Thunder,REBOUNDS,9.5,2.1,BetOnline.ag
+Rui Hachimura,Los Angeles Lakers @ Oklahoma City Thunder,REBOUNDS,4.5,1.97,BetOnline.ag
+Luguentz Dort,Los Angeles Lakers @ Oklahoma City Thunder,REBOUNDS,3.5,1.88,BetOnline.ag
+Jalen Williams,Los Angeles Lakers @ Oklahoma City Thunder,REBOUNDS,4.5,1.99,BetOnline.ag
+Shai Gilgeous-Alexander,Los Angeles Lakers @ Oklahoma City Thunder,REBOUNDS,4.5,2.06,BetOnline.ag
+Austin Reaves,Los Angeles Lakers @ Oklahoma City Thunder,REBOUNDS,4.5,1.97,BetOnline.ag
+Jaxson Hayes,Los Angeles Lakers @ Oklahoma City Thunder,REBOUNDS,5.5,2.1,BetOnline.ag
+Jarred Vanderbilt,Los Angeles Lakers @ Oklahoma City Thunder,REBOUNDS,3.5,1.81,BetOnline.ag
+Dorian Finney-Smith,Los Angeles Lakers @ Oklahoma City Thunder,REBOUNDS,3.5,2.03,BetOnline.ag
+Jordan Goodwin,Los Angeles Lakers @ Oklahoma City Thunder,REBOUNDS,2.5,1.79,BetOnline.ag
+Gabe Vincent,Los Angeles Lakers @ Oklahoma City Thunder,REBOUNDS,1.5,2.3,BetOnline.ag
+Cason Wallace,Los Angeles Lakers @ Oklahoma City Thunder,REBOUNDS,2.5,1.67,BetOnline.ag
+Luka Doncic,Los Angeles Lakers @ Oklahoma City Thunder,REBOUNDS,8.5,2.1,BetOnline.ag
+LeBron James,Los Angeles Lakers @ Oklahoma City Thunder,THREES,1.5,1.56,BetOnline.ag
+Luguentz Dort,Los Angeles Lakers @ Oklahoma City Thunder,THREES,2.5,2.41,BetOnline.ag
+Austin Reaves,Los Angeles Lakers @ Oklahoma City Thunder,THREES,2.5,1.73,BetOnline.ag
+Shai Gilgeous-Alexander,Los Angeles Lakers @ Oklahoma City Thunder,THREES,1.5,1.74,BetOnline.ag
+Jalen Williams,Los Angeles Lakers @ Oklahoma City Thunder,THREES,1.5,1.91,BetOnline.ag
+Chet Holmgren,Los Angeles Lakers @ Oklahoma City Thunder,THREES,1.5,2.07,BetOnline.ag
+Luka Doncic,Los Angeles Lakers @ Oklahoma City Thunder,THREES,3.5,2.03,BetOnline.ag
+Rui Hachimura,Los Angeles Lakers @ Oklahoma City Thunder,THREES,1.5,1.68,BetOnline.ag
+Jordan Goodwin,Los Angeles Lakers @ Oklahoma City Thunder,THREES,0.5,1.98,BetOnline.ag
+Dorian Finney-Smith,Los Angeles Lakers @ Oklahoma City Thunder,THREES,1.5,1.84,BetOnline.ag
+Gabe Vincent,Los Angeles Lakers @ Oklahoma City Thunder,THREES,1.5,1.95,BetOnline.ag
+Cason Wallace,Los Angeles Lakers @ Oklahoma City Thunder,THREES,0.5,1.44,BetOnline.ag
+LeBron James,Los Angeles Lakers @ Oklahoma City Thunder,ASSISTS,7.5,2.13,Pinnacle
+Austin Reaves,Los Angeles Lakers @ Oklahoma City Thunder,ASSISTS,4.5,2.13,Pinnacle
+Shai Gilgeous-Alexander,Los Angeles Lakers @ Oklahoma City Thunder,ASSISTS,6.5,1.72,Pinnacle
+Luka Doncic,Los Angeles Lakers @ Oklahoma City Thunder,ASSISTS,7.5,2.02,Pinnacle
+Jalen Williams,Los Angeles Lakers @ Oklahoma City Thunder,ASSISTS,4.5,1.94,Pinnacle
+Isaiah Hartenstein,Los Angeles Lakers @ Oklahoma City Thunder,ASSISTS,3.5,2.14,Pinnacle
+LeBron James,Los Angeles Lakers @ Oklahoma City Thunder,POINTS,22.5,1.9,Pinnacle
+Austin Reaves,Los Angeles Lakers @ Oklahoma City Thunder,POINTS,18.5,1.79,Pinnacle
+Rui Hachimura,Los Angeles Lakers @ Oklahoma City Thunder,POINTS,12.5,1.83,Pinnacle
+Isaiah Hartenstein,Los Angeles Lakers @ Oklahoma City Thunder,POINTS,9.5,1.78,Pinnacle
+Shai Gilgeous-Alexander,Los Angeles Lakers @ Oklahoma City Thunder,POINTS,31.5,1.92,Pinnacle
+Luka Doncic,Los Angeles Lakers @ Oklahoma City Thunder,POINTS,27.5,1.84,Pinnacle
+Luguentz Dort,Los Angeles Lakers @ Oklahoma City Thunder,POINTS,9.5,2.03,Pinnacle
+Jalen Williams,Los Angeles Lakers @ Oklahoma City Thunder,POINTS,20.5,1.95,Pinnacle
+Chet Holmgren,Los Angeles Lakers @ Oklahoma City Thunder,POINTS,14.5,1.94,Pinnacle
+Cason Wallace,Los Angeles Lakers @ Oklahoma City Thunder,POINTS,7.5,1.81,Pinnacle
+LeBron James,Los Angeles Lakers @ Oklahoma City Thunder,REBOUNDS,6.5,2.1,Pinnacle
+Isaiah Hartenstein,Los Angeles Lakers @ Oklahoma City Thunder,REBOUNDS,9.5,1.88,Pinnacle
+Luka Doncic,Los Angeles Lakers @ Oklahoma City Thunder,REBOUNDS,7.5,1.58,Pinnacle
+Chet Holmgren,Los Angeles Lakers @ Oklahoma City Thunder,REBOUNDS,7.5,1.89,Pinnacle
+LeBron James,Los Angeles Lakers @ Oklahoma City Thunder,THREES,1.5,1.54,Pinnacle
+Dorian Finney-Smith,Los Angeles Lakers @ Oklahoma City Thunder,THREES,1.5,1.76,Pinnacle
+Gabe Vincent,Los Angeles Lakers @ Oklahoma City Thunder,THREES,1.5,1.98,Pinnacle
+Austin Reaves,Los Angeles Lakers @ Oklahoma City Thunder,THREES,2.5,1.68,Pinnacle
+Rui Hachimura,Los Angeles Lakers @ Oklahoma City Thunder,THREES,1.5,1.66,Pinnacle
+Shai Gilgeous-Alexander,Los Angeles Lakers @ Oklahoma City Thunder,THREES,1.5,1.72,Pinnacle
+Luka Doncic,Los Angeles Lakers @ Oklahoma City Thunder,THREES,3.5,2.03,Pinnacle
+Luguentz Dort,Los Angeles Lakers @ Oklahoma City Thunder,THREES,2.5,2.42,Pinnacle
+Jalen Williams,Los Angeles Lakers @ Oklahoma City Thunder,THREES,1.5,1.93,Pinnacle
+Chet Holmgren,Los Angeles Lakers @ Oklahoma City Thunder,THREES,1.5,2.03,Pinnacle
+Cason Wallace,Los Angeles Lakers @ Oklahoma City Thunder,THREES,0.5,1.45,Pinnacle
+Trae Young,Utah Jazz @ Atlanta Hawks,ASSISTS,11.5,1.72,Pinnacle
+Dyson Daniels,Utah Jazz @ Atlanta Hawks,ASSISTS,4.5,1.86,Pinnacle
+Collin Sexton,Utah Jazz @ Atlanta Hawks,ASSISTS,3.5,1.74,Pinnacle
+Isaiah Collier,Utah Jazz @ Atlanta Hawks,ASSISTS,7.5,1.98,Pinnacle
+Trae Young,Utah Jazz @ Atlanta Hawks,POINTS,26.5,2.03,Pinnacle
+Onyeka Okongwu,Utah Jazz @ Atlanta Hawks,POINTS,14.5,1.82,Pinnacle
+Zaccharie Risacher,Utah Jazz @ Atlanta Hawks,POINTS,14.5,1.91,Pinnacle
+Dyson Daniels,Utah Jazz @ Atlanta Hawks,POINTS,14.5,1.76,Pinnacle
+Collin Sexton,Utah Jazz @ Atlanta Hawks,POINTS,19.5,1.92,Pinnacle
+Kyle Filipowski,Utah Jazz @ Atlanta Hawks,POINTS,15.5,1.81,Pinnacle
+Isaiah Collier,Utah Jazz @ Atlanta Hawks,POINTS,13.5,1.96,Pinnacle
+Brice Sensabaugh,Utah Jazz @ Atlanta Hawks,POINTS,12.5,1.68,Pinnacle
+Onyeka Okongwu,Utah Jazz @ Atlanta Hawks,REBOUNDS,10.5,1.86,Pinnacle
+Dyson Daniels,Utah Jazz @ Atlanta Hawks,REBOUNDS,6.5,2.05,Pinnacle
+Kyle Filipowski,Utah Jazz @ Atlanta Hawks,REBOUNDS,10.5,1.99,Pinnacle
+Trae Young,Utah Jazz @ Atlanta Hawks,THREES,2.5,1.65,Pinnacle
+Zaccharie Risacher,Utah Jazz @ Atlanta Hawks,THREES,1.5,1.64,Pinnacle
+Collin Sexton,Utah Jazz @ Atlanta Hawks,THREES,1.5,1.94,Pinnacle
+Kyle Filipowski,Utah Jazz @ Atlanta Hawks,THREES,1.5,1.62,Pinnacle
+Dyson Daniels,Utah Jazz @ Atlanta Hawks,THREES,0.5,1.37,Pinnacle
+Brice Sensabaugh,Utah Jazz @ Atlanta Hawks,THREES,2.5,1.93,Pinnacle
+Jaylen Brown,Washington Wizards @ Boston Celtics,ASSISTS,3.5,1.68,BetOnline.ag
+Jayson Tatum,Washington Wizards @ Boston Celtics,ASSISTS,6.5,2.02,BetOnline.ag
+Derrick White,Washington Wizards @ Boston Celtics,ASSISTS,5.5,1.84,BetOnline.ag
+Jordan Poole,Washington Wizards @ Boston Celtics,ASSISTS,3.5,2.03,BetOnline.ag
+Jrue Holiday,Washington Wizards @ Boston Celtics,ASSISTS,3.5,1.63,BetOnline.ag
+Carlton Carrington,Washington Wizards @ Boston Celtics,ASSISTS,4.5,1.74,BetOnline.ag
+AJ Johnson,Washington Wizards @ Boston Celtics,ASSISTS,3.5,2.15,BetOnline.ag
+Jayson Tatum,Washington Wizards @ Boston Celtics,POINTS,26.5,1.9,BetOnline.ag
+Derrick White,Washington Wizards @ Boston Celtics,POINTS,15.5,1.93,BetOnline.ag
+Al Horford,Washington Wizards @ Boston Celtics,POINTS,8.5,1.89,BetOnline.ag
+Jaylen Brown,Washington Wizards @ Boston Celtics,POINTS,20.5,1.98,BetOnline.ag
+Kristaps Porzingis,Washington Wizards @ Boston Celtics,POINTS,19.5,1.87,BetOnline.ag
+Jordan Poole,Washington Wizards @ Boston Celtics,POINTS,15.5,1.77,BetOnline.ag
+Justin Champagnie,Washington Wizards @ Boston Celtics,POINTS,8.5,1.86,BetOnline.ag
+Jrue Holiday,Washington Wizards @ Boston Celtics,POINTS,11.5,1.95,BetOnline.ag
+Carlton Carrington,Washington Wizards @ Boston Celtics,POINTS,12.5,1.89,BetOnline.ag
+Alex Sarr,Washington Wizards @ Boston Celtics,POINTS,14.5,1.87,BetOnline.ag
+AJ Johnson,Washington Wizards @ Boston Celtics,POINTS,11.5,1.87,BetOnline.ag
+Jaylen Brown,Washington Wizards @ Boston Celtics,REBOUNDS,5.5,2.1,BetOnline.ag
+Jayson Tatum,Washington Wizards @ Boston Celtics,REBOUNDS,8.5,1.95,BetOnline.ag
+Derrick White,Washington Wizards @ Boston Celtics,REBOUNDS,5.5,2.3,BetOnline.ag
+Kristaps Porzingis,Washington Wizards @ Boston Celtics,REBOUNDS,6.5,1.78,BetOnline.ag
+Jordan Poole,Washington Wizards @ Boston Celtics,REBOUNDS,2.5,1.92,BetOnline.ag
+Jrue Holiday,Washington Wizards @ Boston Celtics,REBOUNDS,4.5,1.73,BetOnline.ag
+Justin Champagnie,Washington Wizards @ Boston Celtics,REBOUNDS,6.5,1.94,BetOnline.ag
+AJ Johnson,Washington Wizards @ Boston Celtics,REBOUNDS,3.5,1.79,BetOnline.ag
+Carlton Carrington,Washington Wizards @ Boston Celtics,REBOUNDS,4.5,1.67,BetOnline.ag
+Alex Sarr,Washington Wizards @ Boston Celtics,REBOUNDS,6.5,2.02,BetOnline.ag
+Jaylen Brown,Washington Wizards @ Boston Celtics,THREES,1.5,1.74,BetOnline.ag
+Jayson Tatum,Washington Wizards @ Boston Celtics,THREES,3.5,2.06,BetOnline.ag
+Derrick White,Washington Wizards @ Boston Celtics,THREES,3.5,1.98,BetOnline.ag
+Kristaps Porzingis,Washington Wizards @ Boston Celtics,THREES,1.5,1.54,BetOnline.ag
+Jordan Poole,Washington Wizards @ Boston Celtics,THREES,2.5,1.66,BetOnline.ag
+Jrue Holiday,Washington Wizards @ Boston Celtics,THREES,1.5,1.71,BetOnline.ag
+Justin Champagnie,Washington Wizards @ Boston Celtics,THREES,1.5,2.71,BetOnline.ag
+Carlton Carrington,Washington Wizards @ Boston Celtics,THREES,2.5,2.49,BetOnline.ag
+Alex Sarr,Washington Wizards @ Boston Celtics,THREES,1.5,1.69,BetOnline.ag
+AJ Johnson,Washington Wizards @ Boston Celtics,THREES,1.5,2.3,BetOnline.ag
+Jrue Holiday,Washington Wizards @ Boston Celtics,ASSISTS,3.5,1.61,Pinnacle
+Derrick White,Washington Wizards @ Boston Celtics,ASSISTS,5.5,1.86,Pinnacle
+Jaylen Brown,Washington Wizards @ Boston Celtics,ASSISTS,3.5,1.67,Pinnacle
+Jayson Tatum,Washington Wizards @ Boston Celtics,ASSISTS,6.5,2.03,Pinnacle
+Jordan Poole,Washington Wizards @ Boston Celtics,ASSISTS,3.5,2.05,Pinnacle
+Carlton Carrington,Washington Wizards @ Boston Celtics,ASSISTS,4.5,1.72,Pinnacle
+AJ Johnson,Washington Wizards @ Boston Celtics,ASSISTS,3.5,2.2,Pinnacle
+Jrue Holiday,Washington Wizards @ Boston Celtics,POINTS,11.5,1.98,Pinnacle
+Derrick White,Washington Wizards @ Boston Celtics,POINTS,15.5,2.01,Pinnacle
+Kristaps Porzingis,Washington Wizards @ Boston Celtics,POINTS,19.5,1.84,Pinnacle
+Jaylen Brown,Washington Wizards @ Boston Celtics,POINTS,20.5,2.07,Pinnacle
+Jayson Tatum,Washington Wizards @ Boston Celtics,POINTS,26.5,1.86,Pinnacle
+Jordan Poole,Washington Wizards @ Boston Celtics,POINTS,15.5,1.68,Pinnacle
+Justin Champagnie,Washington Wizards @ Boston Celtics,POINTS,8.5,1.88,Pinnacle
+Alex Sarr,Washington Wizards @ Boston Celtics,POINTS,14.5,1.85,Pinnacle
+Carlton Carrington,Washington Wizards @ Boston Celtics,POINTS,12.5,1.88,Pinnacle
+AJ Johnson,Washington Wizards @ Boston Celtics,POINTS,11.5,1.85,Pinnacle
+Derrick White,Washington Wizards @ Boston Celtics,REBOUNDS,5.5,2.41,Pinnacle
+Kristaps Porzingis,Washington Wizards @ Boston Celtics,REBOUNDS,6.5,1.81,Pinnacle
+Jaylen Brown,Washington Wizards @ Boston Celtics,REBOUNDS,5.5,2.12,Pinnacle
+Jayson Tatum,Washington Wizards @ Boston Celtics,REBOUNDS,8.5,1.89,Pinnacle
+Justin Champagnie,Washington Wizards @ Boston Celtics,REBOUNDS,6.5,1.91,Pinnacle
+Alex Sarr,Washington Wizards @ Boston Celtics,REBOUNDS,6.5,2.04,Pinnacle
+Jrue Holiday,Washington Wizards @ Boston Celtics,THREES,1.5,1.68,Pinnacle
+Derrick White,Washington Wizards @ Boston Celtics,THREES,3.5,2.05,Pinnacle
+Kristaps Porzingis,Washington Wizards @ Boston Celtics,THREES,1.5,1.52,Pinnacle
+Jaylen Brown,Washington Wizards @ Boston Celtics,THREES,1.5,1.7,Pinnacle
+Jayson Tatum,Washington Wizards @ Boston Celtics,THREES,3.5,2.05,Pinnacle
+Jordan Poole,Washington Wizards @ Boston Celtics,THREES,2.5,1.65,Pinnacle
+Justin Champagnie,Washington Wizards @ Boston Celtics,THREES,1.5,2.84,Pinnacle
+Alex Sarr,Washington Wizards @ Boston Celtics,THREES,1.5,1.65,Pinnacle
+Carlton Carrington,Washington Wizards @ Boston Celtics,THREES,2.5,2.49,Pinnacle
+AJ Johnson,Washington Wizards @ Boston Celtics,THREES,1.5,2.26,Pinnacle
+DeMar DeRozan,Sacramento Kings @ Cleveland Cavaliers,ASSISTS,4.5,1.83,Pinnacle
+Zach LaVine,Sacramento Kings @ Cleveland Cavaliers,ASSISTS,3.5,1.93,Pinnacle
+Domantas Sabonis,Sacramento Kings @ Cleveland Cavaliers,ASSISTS,5.5,1.85,Pinnacle
+Donovan Mitchell,Sacramento Kings @ Cleveland Cavaliers,ASSISTS,5.5,1.69,Pinnacle
+Max Strus,Sacramento Kings @ Cleveland Cavaliers,ASSISTS,3.5,2.27,Pinnacle
+Darius Garland,Sacramento Kings @ Cleveland Cavaliers,ASSISTS,6.5,1.78,Pinnacle
+Evan Mobley,Sacramento Kings @ Cleveland Cavaliers,ASSISTS,3.5,2.03,Pinnacle
+DeMar DeRozan,Sacramento Kings @ Cleveland Cavaliers,POINTS,22.5,1.82,Pinnacle
+Zach LaVine,Sacramento Kings @ Cleveland Cavaliers,POINTS,19.5,1.89,Pinnacle
+Domantas Sabonis,Sacramento Kings @ Cleveland Cavaliers,POINTS,18.5,1.83,Pinnacle
+Donovan Mitchell,Sacramento Kings @ Cleveland Cavaliers,POINTS,25.5,1.83,Pinnacle
+Max Strus,Sacramento Kings @ Cleveland Cavaliers,POINTS,9.5,1.86,Pinnacle
+Darius Garland,Sacramento Kings @ Cleveland Cavaliers,POINTS,19.5,1.88,Pinnacle
+Keegan Murray,Sacramento Kings @ Cleveland Cavaliers,POINTS,13.5,1.97,Pinnacle
+Evan Mobley,Sacramento Kings @ Cleveland Cavaliers,POINTS,17.5,1.72,Pinnacle
+Domantas Sabonis,Sacramento Kings @ Cleveland Cavaliers,REBOUNDS,12.5,1.79,Pinnacle
+Keegan Murray,Sacramento Kings @ Cleveland Cavaliers,REBOUNDS,5.5,2.15,Pinnacle
+Evan Mobley,Sacramento Kings @ Cleveland Cavaliers,REBOUNDS,9.5,1.78,Pinnacle
+DeMar DeRozan,Sacramento Kings @ Cleveland Cavaliers,THREES,1.5,2.36,Pinnacle
+Zach LaVine,Sacramento Kings @ Cleveland Cavaliers,THREES,2.5,1.88,Pinnacle
+Donovan Mitchell,Sacramento Kings @ Cleveland Cavaliers,THREES,3.5,2.12,Pinnacle
+Max Strus,Sacramento Kings @ Cleveland Cavaliers,THREES,2.5,2.44,Pinnacle
+Darius Garland,Sacramento Kings @ Cleveland Cavaliers,THREES,2.5,1.82,Pinnacle
+Keegan Murray,Sacramento Kings @ Cleveland Cavaliers,THREES,2.5,2.02,Pinnacle
+Keon Ellis,Sacramento Kings @ Cleveland Cavaliers,THREES,1.5,1.85,Pinnacle
+Evan Mobley,Sacramento Kings @ Cleveland Cavaliers,THREES,1.5,2.51,Pinnacle
+Keldon Johnson,San Antonio Spurs @ Portland Trail Blazers,ASSISTS,2.5,2.2,BetOnline.ag
+Anfernee Simons,San Antonio Spurs @ Portland Trail Blazers,ASSISTS,5.5,2.15,BetOnline.ag
+Devin Vassell,San Antonio Spurs @ Portland Trail Blazers,ASSISTS,2.5,1.81,BetOnline.ag
+Deni Avdija,San Antonio Spurs @ Portland Trail Blazers,ASSISTS,5.5,1.65,BetOnline.ag
+Stephon Castle,San Antonio Spurs @ Portland Trail Blazers,ASSISTS,6.5,2.18,BetOnline.ag
+Chris Paul,San Antonio Spurs @ Portland Trail Blazers,ASSISTS,6.5,1.85,BetOnline.ag
+Blake Wesley,San Antonio Spurs @ Portland Trail Blazers,ASSISTS,2.5,1.89,BetOnline.ag
+Anfernee Simons,San Antonio Spurs @ Portland Trail Blazers,POINTS,21.5,1.92,BetOnline.ag
+Keldon Johnson,San Antonio Spurs @ Portland Trail Blazers,POINTS,13.5,1.91,BetOnline.ag
+Devin Vassell,San Antonio Spurs @ Portland Trail Blazers,POINTS,17.5,1.91,BetOnline.ag
+Julian Champagnie,San Antonio Spurs @ Portland Trail Blazers,POINTS,10.5,1.82,BetOnline.ag
+Stephon Castle,San Antonio Spurs @ Portland Trail Blazers,POINTS,21.5,2.02,BetOnline.ag
+Deni Avdija,San Antonio Spurs @ Portland Trail Blazers,POINTS,26.5,1.97,BetOnline.ag
+Chris Paul,San Antonio Spurs @ Portland Trail Blazers,POINTS,8.5,1.92,BetOnline.ag
+Harrison Barnes,San Antonio Spurs @ Portland Trail Blazers,POINTS,13.5,1.91,BetOnline.ag
+Bismack Biyombo,San Antonio Spurs @ Portland Trail Blazers,POINTS,6.5,2.0,BetOnline.ag
+Sandro Mamukelashvili,San Antonio Spurs @ Portland Trail Blazers,POINTS,7.5,1.89,BetOnline.ag
+Keldon Johnson,San Antonio Spurs @ Portland Trail Blazers,REBOUNDS,5.5,2.12,BetOnline.ag
+Anfernee Simons,San Antonio Spurs @ Portland Trail Blazers,REBOUNDS,3.5,2.17,BetOnline.ag
+Devin Vassell,San Antonio Spurs @ Portland Trail Blazers,REBOUNDS,4.5,1.94,BetOnline.ag
+Julian Champagnie,San Antonio Spurs @ Portland Trail Blazers,REBOUNDS,4.5,1.98,BetOnline.ag
+Deni Avdija,San Antonio Spurs @ Portland Trail Blazers,REBOUNDS,9.5,2.06,BetOnline.ag
+Chris Paul,San Antonio Spurs @ Portland Trail Blazers,REBOUNDS,3.5,2.12,BetOnline.ag
+Harrison Barnes,San Antonio Spurs @ Portland Trail Blazers,REBOUNDS,3.5,1.93,BetOnline.ag
+Bismack Biyombo,San Antonio Spurs @ Portland Trail Blazers,REBOUNDS,7.5,2.06,BetOnline.ag
+Stephon Castle,San Antonio Spurs @ Portland Trail Blazers,REBOUNDS,5.5,1.83,BetOnline.ag
+Sandro Mamukelashvili,San Antonio Spurs @ Portland Trail Blazers,REBOUNDS,5.5,2.15,BetOnline.ag
+Blake Wesley,San Antonio Spurs @ Portland Trail Blazers,REBOUNDS,1.5,1.6,BetOnline.ag
+Anfernee Simons,San Antonio Spurs @ Portland Trail Blazers,THREES,3.5,2.03,BetOnline.ag
+Keldon Johnson,San Antonio Spurs @ Portland Trail Blazers,THREES,1.5,2.46,BetOnline.ag
+Devin Vassell,San Antonio Spurs @ Portland Trail Blazers,THREES,2.5,1.82,BetOnline.ag
+Deni Avdija,San Antonio Spurs @ Portland Trail Blazers,THREES,2.5,2.13,BetOnline.ag
+Stephon Castle,San Antonio Spurs @ Portland Trail Blazers,THREES,1.5,1.94,BetOnline.ag
+Julian Champagnie,San Antonio Spurs @ Portland Trail Blazers,THREES,2.5,2.15,BetOnline.ag
+Chris Paul,San Antonio Spurs @ Portland Trail Blazers,THREES,1.5,2.06,BetOnline.ag
+Harrison Barnes,San Antonio Spurs @ Portland Trail Blazers,THREES,2.5,2.46,BetOnline.ag
+Blake Wesley,San Antonio Spurs @ Portland Trail Blazers,THREES,0.5,2.04,BetOnline.ag
+Sandro Mamukelashvili,San Antonio Spurs @ Portland Trail Blazers,THREES,1.5,2.44,BetOnline.ag
+Chris Paul,San Antonio Spurs @ Portland Trail Blazers,ASSISTS,6.5,1.88,Pinnacle
+Anfernee Simons,San Antonio Spurs @ Portland Trail Blazers,ASSISTS,5.5,2.12,Pinnacle
+Deni Avdija,San Antonio Spurs @ Portland Trail Blazers,ASSISTS,5.5,1.63,Pinnacle
+Stephon Castle,San Antonio Spurs @ Portland Trail Blazers,ASSISTS,6.5,2.22,Pinnacle
+Chris Paul,San Antonio Spurs @ Portland Trail Blazers,POINTS,8.5,1.85,Pinnacle
+Harrison Barnes,San Antonio Spurs @ Portland Trail Blazers,POINTS,13.5,1.85,Pinnacle
+Anfernee Simons,San Antonio Spurs @ Portland Trail Blazers,POINTS,21.5,1.88,Pinnacle
+Devin Vassell,San Antonio Spurs @ Portland Trail Blazers,POINTS,17.5,1.9,Pinnacle
+Keldon Johnson,San Antonio Spurs @ Portland Trail Blazers,POINTS,13.5,1.88,Pinnacle
+Julian Champagnie,San Antonio Spurs @ Portland Trail Blazers,POINTS,10.5,1.78,Pinnacle
+Deni Avdija,San Antonio Spurs @ Portland Trail Blazers,POINTS,26.5,2.03,Pinnacle
+Stephon Castle,San Antonio Spurs @ Portland Trail Blazers,POINTS,21.5,2.05,Pinnacle
+Bismack Biyombo,San Antonio Spurs @ Portland Trail Blazers,REBOUNDS,7.5,2.21,Pinnacle
+Sandro Mamukelashvili,San Antonio Spurs @ Portland Trail Blazers,REBOUNDS,5.5,2.32,Pinnacle
+Keldon Johnson,San Antonio Spurs @ Portland Trail Blazers,REBOUNDS,5.5,2.09,Pinnacle
+Deni Avdija,San Antonio Spurs @ Portland Trail Blazers,REBOUNDS,9.5,2.05,Pinnacle
+Stephon Castle,San Antonio Spurs @ Portland Trail Blazers,REBOUNDS,6.5,2.34,Pinnacle
+Chris Paul,San Antonio Spurs @ Portland Trail Blazers,THREES,1.5,1.99,Pinnacle
+Harrison Barnes,San Antonio Spurs @ Portland Trail Blazers,THREES,2.5,2.48,Pinnacle
+Sandro Mamukelashvili,San Antonio Spurs @ Portland Trail Blazers,THREES,1.5,2.53,Pinnacle
+Anfernee Simons,San Antonio Spurs @ Portland Trail Blazers,THREES,3.5,1.98,Pinnacle
+Devin Vassell,San Antonio Spurs @ Portland Trail Blazers,THREES,2.5,1.75,Pinnacle
+Keldon Johnson,San Antonio Spurs @ Portland Trail Blazers,THREES,1.5,2.53,Pinnacle
+Julian Champagnie,San Antonio Spurs @ Portland Trail Blazers,THREES,2.5,2.11,Pinnacle
+Deni Avdija,San Antonio Spurs @ Portland Trail Blazers,THREES,2.5,2.14,Pinnacle
+Stephon Castle,San Antonio Spurs @ Portland Trail Blazers,THREES,1.5,1.88,Pinnacle
+Josh Hart,Phoenix Suns @ New York Knicks,ASSISTS,6.5,1.89,Pinnacle
+Mikal Bridges,Phoenix Suns @ New York Knicks,ASSISTS,4.5,2.06,Pinnacle
+Jalen Brunson,Phoenix Suns @ New York Knicks,ASSISTS,5.5,1.97,Pinnacle
+Bradley Beal,Phoenix Suns @ New York Knicks,ASSISTS,3.5,1.76,Pinnacle
+Devin Booker,Phoenix Suns @ New York Knicks,ASSISTS,7.5,2.14,Pinnacle
+Josh Hart,Phoenix Suns @ New York Knicks,POINTS,12.5,1.79,Pinnacle
+Karl-Anthony Towns,Phoenix Suns @ New York Knicks,POINTS,22.5,1.81,Pinnacle
+Mikal Bridges,Phoenix Suns @ New York Knicks,POINTS,14.5,1.69,Pinnacle
+Jalen Brunson,Phoenix Suns @ New York Knicks,POINTS,19.5,1.87,Pinnacle
+OG Anunoby,Phoenix Suns @ New York Knicks,POINTS,18.5,1.83,Pinnacle
+Ryan Dunn,Phoenix Suns @ New York Knicks,POINTS,8.5,2.0,Pinnacle
+Royce O'Neale,Phoenix Suns @ New York Knicks,POINTS,11.5,2.13,Pinnacle
+Bradley Beal,Phoenix Suns @ New York Knicks,POINTS,15.5,1.85,Pinnacle
+Devin Booker,Phoenix Suns @ New York Knicks,POINTS,29.5,1.86,Pinnacle
+Josh Hart,Phoenix Suns @ New York Knicks,REBOUNDS,8.5,1.85,Pinnacle
+Karl-Anthony Towns,Phoenix Suns @ New York Knicks,REBOUNDS,10.5,1.72,Pinnacle
+Mitchell Robinson,Phoenix Suns @ New York Knicks,REBOUNDS,5.5,1.86,Pinnacle
+Karl-Anthony Towns,Phoenix Suns @ New York Knicks,THREES,1.5,1.81,Pinnacle
+Mikal Bridges,Phoenix Suns @ New York Knicks,THREES,1.5,1.98,Pinnacle
+Jalen Brunson,Phoenix Suns @ New York Knicks,THREES,1.5,1.84,Pinnacle
+OG Anunoby,Phoenix Suns @ New York Knicks,THREES,1.5,1.48,Pinnacle
+Ryan Dunn,Phoenix Suns @ New York Knicks,THREES,1.5,2.32,Pinnacle
+Royce O'Neale,Phoenix Suns @ New York Knicks,THREES,2.5,1.7,Pinnacle
+Bradley Beal,Phoenix Suns @ New York Knicks,THREES,1.5,1.91,Pinnacle
+Devin Booker,Phoenix Suns @ New York Knicks,THREES,2.5,1.79,Pinnacle
+Nikola Jokic,Indiana Pacers @ Denver Nuggets,ASSISTS,9.5,1.87,BetOnline.ag
+Jamal Murray,Indiana Pacers @ Denver Nuggets,ASSISTS,4.5,1.62,BetOnline.ag
+Tyrese Haliburton,Indiana Pacers @ Denver Nuggets,ASSISTS,10.5,1.81,BetOnline.ag
+Andrew Nembhard,Indiana Pacers @ Denver Nuggets,ASSISTS,4.5,2.03,BetOnline.ag
+Christian Braun,Indiana Pacers @ Denver Nuggets,ASSISTS,3.5,2.06,BetOnline.ag
+Michael Porter Jr,Indiana Pacers @ Denver Nuggets,ASSISTS,1.5,1.63,BetOnline.ag
+Aaron Gordon,Indiana Pacers @ Denver Nuggets,ASSISTS,2.5,1.86,BetOnline.ag
+Nikola Jokic,Indiana Pacers @ Denver Nuggets,POINTS,30.5,1.92,BetOnline.ag
+Myles Turner,Indiana Pacers @ Denver Nuggets,POINTS,16.5,1.98,BetOnline.ag
+Jamal Murray,Indiana Pacers @ Denver Nuggets,POINTS,19.5,1.9,BetOnline.ag
+Michael Porter Jr,Indiana Pacers @ Denver Nuggets,POINTS,17.5,1.95,BetOnline.ag
+Aaron Gordon,Indiana Pacers @ Denver Nuggets,POINTS,15.5,1.97,BetOnline.ag
+Christian Braun,Indiana Pacers @ Denver Nuggets,POINTS,13.5,1.7,BetOnline.ag
+Tyrese Haliburton,Indiana Pacers @ Denver Nuggets,POINTS,21.5,1.88,BetOnline.ag
+Andrew Nembhard,Indiana Pacers @ Denver Nuggets,POINTS,10.5,1.88,BetOnline.ag
+Aaron Nesmith,Indiana Pacers @ Denver Nuggets,POINTS,13.5,1.89,BetOnline.ag
+Nikola Jokic,Indiana Pacers @ Denver Nuggets,REBOUNDS,11.5,1.91,BetOnline.ag
+Myles Turner,Indiana Pacers @ Denver Nuggets,REBOUNDS,6.5,2.07,BetOnline.ag
+Aaron Gordon,Indiana Pacers @ Denver Nuggets,REBOUNDS,5.5,1.83,BetOnline.ag
+Michael Porter Jr,Indiana Pacers @ Denver Nuggets,REBOUNDS,7.5,1.77,BetOnline.ag
+Christian Braun,Indiana Pacers @ Denver Nuggets,REBOUNDS,5.5,1.99,BetOnline.ag
+Aaron Nesmith,Indiana Pacers @ Denver Nuggets,REBOUNDS,3.5,1.82,BetOnline.ag
+Tyrese Haliburton,Indiana Pacers @ Denver Nuggets,REBOUNDS,3.5,2.15,BetOnline.ag
+Jamal Murray,Indiana Pacers @ Denver Nuggets,REBOUNDS,3.5,1.81,BetOnline.ag
+Andrew Nembhard,Indiana Pacers @ Denver Nuggets,REBOUNDS,3.5,2.3,BetOnline.ag
+Nikola Jokic,Indiana Pacers @ Denver Nuggets,THREES,1.5,1.79,BetOnline.ag
+Michael Porter Jr,Indiana Pacers @ Denver Nuggets,THREES,2.5,2.07,BetOnline.ag
+Myles Turner,Indiana Pacers @ Denver Nuggets,THREES,1.5,1.55,BetOnline.ag
+Aaron Gordon,Indiana Pacers @ Denver Nuggets,THREES,1.5,2.44,BetOnline.ag
+Tyrese Haliburton,Indiana Pacers @ Denver Nuggets,THREES,3.5,2.18,BetOnline.ag
+Aaron Nesmith,Indiana Pacers @ Denver Nuggets,THREES,2.5,2.41,BetOnline.ag
+Jamal Murray,Indiana Pacers @ Denver Nuggets,THREES,1.5,1.53,BetOnline.ag
+Tyrese Haliburton,Indiana Pacers @ Denver Nuggets,ASSISTS,10.5,1.77,Pinnacle
+Andrew Nembhard,Indiana Pacers @ Denver Nuggets,ASSISTS,4.5,2.03,Pinnacle
+Nikola Jokic,Indiana Pacers @ Denver Nuggets,ASSISTS,9.5,1.81,Pinnacle
+Jamal Murray,Indiana Pacers @ Denver Nuggets,ASSISTS,4.5,1.6,Pinnacle
+Christian Braun,Indiana Pacers @ Denver Nuggets,ASSISTS,3.5,2.08,Pinnacle
+Tyrese Haliburton,Indiana Pacers @ Denver Nuggets,POINTS,22.5,2.12,Pinnacle
+Myles Turner,Indiana Pacers @ Denver Nuggets,POINTS,16.5,1.97,Pinnacle
+Aaron Nesmith,Indiana Pacers @ Denver Nuggets,POINTS,13.5,1.89,Pinnacle
+Andrew Nembhard,Indiana Pacers @ Denver Nuggets,POINTS,10.5,1.92,Pinnacle
+Aaron Gordon,Indiana Pacers @ Denver Nuggets,POINTS,15.5,1.98,Pinnacle
+Nikola Jokic,Indiana Pacers @ Denver Nuggets,POINTS,30.5,1.89,Pinnacle
+Jamal Murray,Indiana Pacers @ Denver Nuggets,POINTS,19.5,1.89,Pinnacle
+Michael Porter Jr,Indiana Pacers @ Denver Nuggets,POINTS,17.5,1.93,Pinnacle
+Christian Braun,Indiana Pacers @ Denver Nuggets,POINTS,13.5,1.82,Pinnacle
+Myles Turner,Indiana Pacers @ Denver Nuggets,REBOUNDS,6.5,2.08,Pinnacle
+Aaron Gordon,Indiana Pacers @ Denver Nuggets,REBOUNDS,5.5,1.8,Pinnacle
+Nikola Jokic,Indiana Pacers @ Denver Nuggets,REBOUNDS,10.5,1.58,Pinnacle
+Michael Porter Jr,Indiana Pacers @ Denver Nuggets,REBOUNDS,7.5,1.79,Pinnacle
+Christian Braun,Indiana Pacers @ Denver Nuggets,REBOUNDS,5.5,1.92,Pinnacle
+Tyrese Haliburton,Indiana Pacers @ Denver Nuggets,THREES,3.5,2.16,Pinnacle
+Myles Turner,Indiana Pacers @ Denver Nuggets,THREES,1.5,1.5,Pinnacle
+Aaron Nesmith,Indiana Pacers @ Denver Nuggets,THREES,2.5,2.34,Pinnacle
+Aaron Gordon,Indiana Pacers @ Denver Nuggets,THREES,1.5,2.48,Pinnacle
+Nikola Jokic,Indiana Pacers @ Denver Nuggets,THREES,1.5,1.78,Pinnacle
+Jamal Murray,Indiana Pacers @ Denver Nuggets,THREES,1.5,1.51,Pinnacle
+Michael Porter Jr,Indiana Pacers @ Denver Nuggets,THREES,2.5,2.06,Pinnacle
+Giannis Antetokounmpo,Milwaukee Bucks @ New Orleans Pelicans,ASSISTS,7.5,2.13,Pinnacle
+Jose Alvarado,Milwaukee Bucks @ New Orleans Pelicans,ASSISTS,5.5,1.86,Pinnacle
+Brook Lopez,Milwaukee Bucks @ New Orleans Pelicans,POINTS,14.5,1.86,Pinnacle
+Giannis Antetokounmpo,Milwaukee Bucks @ New Orleans Pelicans,POINTS,30.5,1.8,Pinnacle
+Bruce Brown Jr,Milwaukee Bucks @ New Orleans Pelicans,POINTS,11.5,1.78,Pinnacle
+Jose Alvarado,Milwaukee Bucks @ New Orleans Pelicans,POINTS,15.5,1.82,Pinnacle
+Yves Missi,Milwaukee Bucks @ New Orleans Pelicans,POINTS,11.5,1.85,Pinnacle
+Brook Lopez,Milwaukee Bucks @ New Orleans Pelicans,REBOUNDS,5.5,1.86,Pinnacle
+Giannis Antetokounmpo,Milwaukee Bucks @ New Orleans Pelicans,REBOUNDS,12.5,1.97,Pinnacle
+Yves Missi,Milwaukee Bucks @ New Orleans Pelicans,REBOUNDS,8.5,1.85,Pinnacle
+Brook Lopez,Milwaukee Bucks @ New Orleans Pelicans,THREES,1.5,2.04,Pinnacle
+Jose Alvarado,Milwaukee Bucks @ New Orleans Pelicans,THREES,2.5,1.65,Pinnacle
+Stephen Curry,Houston Rockets @ Golden State Warriors,ASSISTS,5.5,1.78,Pinnacle
+Jimmy Butler,Houston Rockets @ Golden State Warriors,ASSISTS,5.5,2.23,Pinnacle
+Draymond Green,Houston Rockets @ Golden State Warriors,ASSISTS,5.5,2.09,Pinnacle
+Brandin Podziemski,Houston Rockets @ Golden State Warriors,ASSISTS,3.5,1.88,Pinnacle
+Fred VanVleet,Houston Rockets @ Golden State Warriors,ASSISTS,4.5,1.66,Pinnacle
+Jalen Green,Houston Rockets @ Golden State Warriors,ASSISTS,3.5,1.94,Pinnacle
+Alperen Sengun,Houston Rockets @ Golden State Warriors,ASSISTS,4.5,1.79,Pinnacle
+Amen Thompson,Houston Rockets @ Golden State Warriors,ASSISTS,4.5,2.03,Pinnacle
+Stephen Curry,Houston Rockets @ Golden State Warriors,POINTS,25.5,1.93,Pinnacle
+Jimmy Butler,Houston Rockets @ Golden State Warriors,POINTS,16.5,1.65,Pinnacle
+Draymond Green,Houston Rockets @ Golden State Warriors,POINTS,10.5,2.17,Pinnacle
+Moses Moody,Houston Rockets @ Golden State Warriors,POINTS,9.5,1.83,Pinnacle
+Brandin Podziemski,Houston Rockets @ Golden State Warriors,POINTS,14.5,1.88,Pinnacle
+Jonathan Kuminga,Houston Rockets @ Golden State Warriors,POINTS,13.5,1.88,Pinnacle
+Fred VanVleet,Houston Rockets @ Golden State Warriors,POINTS,13.5,2.03,Pinnacle
+Dillon Brooks,Houston Rockets @ Golden State Warriors,POINTS,14.5,2.02,Pinnacle
+Jalen Green,Houston Rockets @ Golden State Warriors,POINTS,20.5,1.83,Pinnacle
+Alperen Sengun,Houston Rockets @ Golden State Warriors,POINTS,19.5,1.91,Pinnacle
+Amen Thompson,Houston Rockets @ Golden State Warriors,POINTS,14.5,1.99,Pinnacle
+Tari Eason,Houston Rockets @ Golden State Warriors,POINTS,10.5,1.98,Pinnacle
+Jabari Smith Jr,Houston Rockets @ Golden State Warriors,POINTS,10.5,1.85,Pinnacle
+Draymond Green,Houston Rockets @ Golden State Warriors,REBOUNDS,6.5,1.89,Pinnacle
+Brandin Podziemski,Houston Rockets @ Golden State Warriors,REBOUNDS,6.5,2.2,Pinnacle
+Jalen Green,Houston Rockets @ Golden State Warriors,REBOUNDS,4.5,1.7,Pinnacle
+Alperen Sengun,Houston Rockets @ Golden State Warriors,REBOUNDS,8.5,1.63,Pinnacle
+Amen Thompson,Houston Rockets @ Golden State Warriors,REBOUNDS,8.5,2.22,Pinnacle
+Tari Eason,Houston Rockets @ Golden State Warriors,REBOUNDS,5.5,2.02,Pinnacle
+Jabari Smith Jr,Houston Rockets @ Golden State Warriors,REBOUNDS,6.5,1.93,Pinnacle
+Jimmy Butler,Houston Rockets @ Golden State Warriors,REBOUNDS,5.5,2.25,Pinnacle
+Stephen Curry,Houston Rockets @ Golden State Warriors,THREES,4.5,1.89,Pinnacle
+Draymond Green,Houston Rockets @ Golden State Warriors,THREES,1.5,2.48,Pinnacle
+Moses Moody,Houston Rockets @ Golden State Warriors,THREES,1.5,1.91,Pinnacle
+Brandin Podziemski,Houston Rockets @ Golden State Warriors,THREES,2.5,2.36,Pinnacle
+Fred VanVleet,Houston Rockets @ Golden State Warriors,THREES,2.5,1.71,Pinnacle
+Dillon Brooks,Houston Rockets @ Golden State Warriors,THREES,2.5,1.91,Pinnacle
+Jalen Green,Houston Rockets @ Golden State Warriors,THREES,2.5,1.9,Pinnacle
+Jabari Smith Jr,Houston Rockets @ Golden State Warriors,THREES,1.5,2.01,Pinnacle
