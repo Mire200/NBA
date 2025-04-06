@@ -4,7 +4,7 @@ from datetime import datetime
 import altair as alt
 
 # === CONFIG ===
-BANKROLL_INITIALE = 500.0
+BANKROLL_INITIALE = 200.0
 FICHIER_VALUE_BETS = "value_bets_resultats.csv"
 FICHIER_HISTORIQUE = "historique_paris.csv"
 FICHIER_PROPOSITIONS = "propositions_du_jour.csv"
